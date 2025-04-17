@@ -1,3 +1,22 @@
+Ushop, kullanıcıların kolayca ürünleri görüntüleyip satın alabileceği bir alışveriş mobil uygulamasıdır. 
+## 🚀 Özellikler
+
+- Kullanıcı kayıt ve giriş sistemi
+- Kategorilere göre ürün listeleme
+- Ürün detay sayfası
+- Sepete ürün ekleyip çıkarabilme
+- Sipariş oluşturma
+- Sipariş geçmişi görüntüleme
+
+## 🛠️ Kullanılan Teknolojiler
+
+- Flutter
+- Firebase Authentication
+- Firebase Firestore
+- Provider (State Management)
+
+
+
 <p float="left">
   <img src="https://github.com/user-attachments/assets/45172cd9-8183-472e-ad20-a1b7c5b52f42" width="250"/>
   <img src="https://github.com/user-attachments/assets/9b53426c-dabd-4ef2-86aa-a66905d3383a" width="250"/>
